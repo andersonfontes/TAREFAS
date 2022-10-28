@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+	align-content: "center";
+	align-items: "center";
+	align-self: "center";
+}
+
+thead {
+font-family: "Roboto", sans-serif;
+font:lighter;
+font-style: "normal";
+font-size: 18;
+background-color: #444400;
+}
+
+tbody {
+font: "Calibri";
+font-style: normal;
+font-size: 18;
+align-content: "center";
+}
+
+.Tabela{
+	padding: 10px 10px 10px 10px;
+	align-content: "center";
+	align-items: "center";
+	border-width: 1px;	
+}
+
+.Botao1{
+	padding: 5px 10px 5px 10px;
+	align-content: "center";
+	border-width: 1px;	
+	border-radius: 3px;
+	background-color: blue;
+	color: #fff;
+}
+
+.Botao2{
+	padding: 5px 10px 5px 10px;
+	align-content: "center";
+	border-width: 1px;	
+	border-radius: 3px;
+	background-color: green;
+	color: #fff;
+}
